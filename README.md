@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @fatimazehra
-- 👀 I’m interested in ...
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Aptech Learning
-- 💞️ I’m looking to collaborate on ....
-- 📫 Reach me on gmail
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Reach me on gmail fatimazehra182009@gmail.com
+- 😄 thanks for reaching me 
 
 <!---
 fatimazeh/fatimazeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
