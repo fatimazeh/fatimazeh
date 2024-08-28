@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fatimazehra
-- 👀 I’m a Professional in Coding
+- 👀 I’m a Expert in Coding
 - 🌱 I’m currently learning Aptech Learning
-- 📫 Reach me on gmail fatimazehra777888@gmail.com
+- 📫 Reach me on gmail fatimazehra888000@gmail.com
 - 😄 thanks for reaching me 
 
 <!---
